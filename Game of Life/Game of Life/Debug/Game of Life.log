@@ -1,0 +1,18 @@
+﻿  main.cpp
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(31,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(31,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(49,31): warning C4018: '<': signed/unsigned mismatch
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(52,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(52,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(58,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\GitHub Projects\Game-of-Life\Game of Life\Game of Life\main.cpp(58,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game of Life.vcxproj -> F:\GitHub Projects\Game-of-Life\Game of Life\Debug\Game of Life.exe
